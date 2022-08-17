@@ -130,6 +130,7 @@ dmypy.json
 
 /data
 /data_cleaning
+/supp_materials
 .ipynb_checkpoints
 analysis.ipynb
 /old_codes
