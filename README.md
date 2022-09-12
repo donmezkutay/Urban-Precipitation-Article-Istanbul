@@ -1,4 +1,4 @@
-# Codes Related to Second Urban-Precipitation Article [Firt Author: Kutay Dönmez]
+# Codes Related to Second Urban-Precipitation Article [First Author: Kutay Dönmez]
 
 ## Authors
 Kutay Dönmez - Istanbul Technical University <br> 
