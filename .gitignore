@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 /data
+/pictures
 /data_cleaning
 /supp_materials
 .ipynb_checkpoints
